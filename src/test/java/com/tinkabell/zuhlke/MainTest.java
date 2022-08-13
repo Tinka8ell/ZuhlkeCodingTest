@@ -7,10 +7,10 @@ import static org.junit.jupiter.api.Assertions.*;
 class MainTest {
 
     @Test
-    void helloWorld() {
+    void checkHelloWorld() {
         // Arrange
         Main main = new Main();
-        String expected =  "HelloWorld";
+        String expected =  "Hello world!";
 
         // Act
         String actual = main.helloWorld();

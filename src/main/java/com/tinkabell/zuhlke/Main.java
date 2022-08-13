@@ -3,7 +3,7 @@ package com.tinkabell.zuhlke;
 public class Main {
 
     public String helloWorld() {
-        return ""; // temporary make fail! "Hello world!";
+        return "Hello world!";
     }
 
     public static void main(String[] args) {
