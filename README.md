@@ -7,9 +7,19 @@ We hope you'll find it straightforward
 (we're not looking for clever algorithms).
 
 ## Contents
+In chronological order
 
 * [Prep for test](#prep-for-test)
 * [Zuhlke Coding Test](#zuhlke-coding-test)
+
+Content in reverse chronological order, so current near the top.
+After all that's what you are interested in first ...
+
+## Zuhlke Coding Test
+
+### Brief
+
+### Design
 
 ## Prep for test
 
@@ -31,16 +41,10 @@ go through a full TDD cycle with GIT commits to check all is working.
 * IntelliJ gives a starter project with a simple main class, already created
 * IntelliJ uses master branch my default, so will need to swap to main branch as it is more GitHubby
 * Also want to use packages, for consistency
-* TODO:
+* Successfully completed:
   * Move Main to com.tinkabell.zuhlke
   * Modify Main to have method helloWorld() and use it in main() method
   * Add failing test for helloWorld()
   * Fix the test
   * Run commits for each phase
-
-## Zuhlke Coding Test
-
-### Brief
-
-### Design
 
